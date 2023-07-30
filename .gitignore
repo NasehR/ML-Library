@@ -1,0 +1,32 @@
+# Compiled object files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+
+# Executable files
+*.exe
+*.out
+
+# Build artifacts
+build/
+bin/
+
+# Dependency directories (if using CMake, for example)
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+CMakeLists.txt.user
+
+# IDE-specific files (for example, Visual Studio, Xcode)
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.xcodeproj
+*.xcodeproj/
+
+# Miscellaneous
+*.DS_Store
+Thumbs.db
